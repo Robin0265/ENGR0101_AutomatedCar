@@ -29,8 +29,9 @@ A Hitchhiker's Guide to projects of Mechanical Engineering, specialized for ***S
 
 ```
 Robin Young
-    Wechat ID: Robin_Y_65
+    Telegram: @RobinY501
     Email: RobinYoung501@outlook.com
+    QQ: 2864369437
 ```
 
 ### Administrators
