@@ -20,5 +20,5 @@ A Hitchhiker's Guide to ME, specialized for SCUPI ME students.
 ```
 Robin Young
     Wechat ID: Robin_Y_65
-    WhatsApp: 
+    Email: RobinYoung501@outlook.com
 ```
