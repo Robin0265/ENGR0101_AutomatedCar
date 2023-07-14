@@ -14,7 +14,7 @@
 
 ### Through Keil
 
-* Manually build a [keil MDK](https://developer.arm.com/Tools%20and%20Software/Keil%20MDK) project and add all the corresponding files.
+* Manually build a ``keil MDK`` project and add all the corresponding files.
 
 ### Through VSCode
 

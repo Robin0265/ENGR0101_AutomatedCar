@@ -1,5 +1,5 @@
 # ENGR0101
-A Hitchhiker's Guide to ME, specialized for SCUPI ME students.
+A Hitchhiker's Guide to projects of Mechanical Engineering, specialized for ***SCUPI ME students***.
 
 ## Structure
 
@@ -18,48 +18,8 @@ A Hitchhiker's Guide to ME, specialized for SCUPI ME students.
 ### Access & Collaborations
 
 * Be sure to have a ``Github Account``
-* Make a 1st contact with the  [Author](### Author)
+* Make a 1st contact with the 
 ### Make ***Pull Request***
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
