@@ -1,8 +1,8 @@
-# Stabler Controller STM32 Ver.
+# Stabler Controller - STM32 Version
 
 ## Intro
 
-
+* [Structure for the Stabler](https://github.com/SingTown/OpenMV-Pan-Tilt/tree/master/pan-tilt/stl)
 
 ## Basic Info for Pins
 
@@ -22,5 +22,5 @@
 
 ### About
 ```
-Copyright (c) 2023 ParaDroid
+Copyright (c) 2023 Robin Young
 ```
