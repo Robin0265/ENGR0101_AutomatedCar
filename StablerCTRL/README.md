@@ -10,3 +10,12 @@
 * PA9, PA10: USART1 TX/RX, 主控串口通信
 * PA6, PA7: TIM3_CH1/CH2, 舵机控制
 
+## How to Build
+
+### Through Keil
+
+* Manually build a [keil MDK](https://developer.arm.com/Tools%20and%20Software/Keil%20MDK) project and add all the corresponding files.
+
+### Through VSCode
+
+* TBC
