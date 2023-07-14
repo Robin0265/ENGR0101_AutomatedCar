@@ -1,14 +1,14 @@
-# STM32F103 Series 云台控制+串口通信
+# Stabler Controller STM32 Ver.
 
-## 项目简介
+## Intro
 
 
 
-## 预留位说明
+## Basic Info for Pins
 
-* PA2, PA3: USART2 TX/RX, 摄像头串口通信
-* PA9, PA10: USART1 TX/RX, 主控串口通信
-* PA6, PA7: TIM3_CH1/CH2, 舵机控制
+* PA2, PA3: USART2 TX/RX, Camera Communications
+* PA9, PA10: USART1 TX/RX, MCU Communications
+* PA6, PA7: TIM3_CH1/CH2, Servo Control
 
 ## How to Build
 
@@ -19,3 +19,8 @@
 ### Through VSCode
 
 * TBC
+
+### About
+```
+Copyright (c) 2023 ParaDroid
+```
