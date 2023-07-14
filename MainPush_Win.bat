@@ -1,3 +1,3 @@
 git add ./
-git commit
+git commit -m "1st commit"
 git push
