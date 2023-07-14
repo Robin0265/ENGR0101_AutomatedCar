@@ -1,8 +1,7 @@
 # ENGR0101
 A Hitchhiker's Guide to ME, specialized for SCUPI ME students.
-## How to Install:
-
-* Create a local directory for the repository and synchronize through git: 
+## How to Synchronize:
+* Create a local directory for the repository and synchronize through *``git``*: 
     ```bash
     $ git clone git@github.com:Robin0265/ENGR0101.git
     ```
@@ -16,4 +15,10 @@ A Hitchhiker's Guide to ME, specialized for SCUPI ME students.
 
 * TBC
 
-## About
+## About the Author
+
+```
+Robin Young
+    Wechat ID: Robin_Y_65
+    WhatsApp: 
+```
