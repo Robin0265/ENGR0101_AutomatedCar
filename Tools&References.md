@@ -16,5 +16,4 @@
 
 ## [TUNA](https://mirrors.tuna.tsinghua.edu.cn/)
 
-* A mirror site in China Mainland for softwares & repositories. 
-
+* A mirror site in China Mainland for softwares & repositories.
