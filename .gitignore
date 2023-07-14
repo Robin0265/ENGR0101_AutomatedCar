@@ -1,4 +1,5 @@
 # ignore files
+*.gif
 *.scvd
 *.bat
 *.uvguix.*

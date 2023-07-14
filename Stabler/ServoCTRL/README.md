@@ -1,5 +1,7 @@
 # Stabler Controller - STM32 Version
 
+![](./mmexport1688569877550.gif)
+
 ## Intro
 
 * [Structure for the Stabler](https://github.com/SingTown/OpenMV-Pan-Tilt/tree/master/pan-tilt/stl)
