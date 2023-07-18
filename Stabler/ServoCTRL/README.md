@@ -1,6 +1,6 @@
 # Stabler Controller - STM32 Version
 
-![](./mmexport1688569877550.gif)
+![](./images/mmexport1688569877550.gif)
 
 ## Intro
 
